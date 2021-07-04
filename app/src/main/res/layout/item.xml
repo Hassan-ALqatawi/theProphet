@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/_8sdp"
+    android:layout_marginBottom="@dimen/_4sdp"
+    android:layout_marginEnd="@dimen/_4sdp"
+    android:layout_marginStart="@dimen/_4sdp"
+    android:background="#756F6F"
+    android:elevation="@dimen/_20sdp"
+    app:cardCornerRadius="@dimen/_20sdp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#FFFFFF"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_item"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#E6E2E2"
+                android:padding="@dimen/_8sdp"
+                android:textColor="#040000"
+                android:textSize="@dimen/_25sdp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</androidx.cardview.widget.CardView>

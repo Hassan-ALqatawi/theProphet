@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name"> حبيب الله </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="A"> اسم النبي </string>
+    <string name="B"> وصف النبي </string>
+    <string name="C"> زوجات النبي </string>
+    <string name="D"> ابناء النبي </string>
+    <string name="E"> اخلاق النبي </string>
+    <string name="F"> فضل الصلاه علي النبي </string>
+    <string name="G"> صيغه الصلاه علي النبي </string>
+    <string name="H"> مكانة النبي </string>
+    <string name="M"> مكانة امة النبي </string>
+
+</resources>
